@@ -6,6 +6,4 @@ console.log(typeof conv) // number
 
 let LoggedIn = "vedansh"
 let ConvLoggedIn = Boolean(LoggedIn)
-console.log(ConvLoggedIn); // false and true for "vedansh"
-
-
+console.log(ConvLoggedIn); // false  for " " and true for "vedansh"
